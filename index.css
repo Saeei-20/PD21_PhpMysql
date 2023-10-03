@@ -1,0 +1,20 @@
+.form{
+    background-color: lightcoral;
+    color:darkred;
+    width:250px;
+    align-content: center;
+}
+.input{
+    background-color: rgb(0, 0, 0);
+    color:white;
+    
+}
+.form-group{
+    margin-top: 10px;
+    color:white;
+    width:200px;
+
+}
+.body{
+    background-color: lightcoral;
+}
