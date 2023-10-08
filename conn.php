@@ -2,11 +2,12 @@
 <body>
 <h1>Data collected</h1>
 <?php
+
 // Database connection details
-$host = "localhost"; // Change to your database host
-$username = "saeei"; // Change to your database username
-$password = "abc"; // Change to your database password
-$database = "test"; // Change to your database name
+$host = "localhost"; 
+$username = "saeei";
+$password = "abc123";
+$database = "test";
 
 // Create a database connection
 $conn = new mysqli($host, $username, $password, $database);
